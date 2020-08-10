@@ -1,2 +1,0 @@
-mag
-Ebony
