@@ -1,4 +1,12 @@
-[A#[cat admin.sh
-:wq!
-:wq!
-:wq!
+
+
+
+
+
+
+mag
+Anna
+Dev-Frida
+Angel-UAT
+Daniella.pretify
+
