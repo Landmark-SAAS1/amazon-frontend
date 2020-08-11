@@ -1,6 +1,4 @@
-Peter
-mag
-Anna
-Dev-Frida
-
-Divine
+[A#[cat admin.sh
+:wq!
+:wq!
+:wq!
